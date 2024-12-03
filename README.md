@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ajit Kumar Rai</h1>
-<h3 align="center">Aspiring Data Scientist || Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst || Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raiajit022&label=Profile%20views&color=0e75b6&style=flat" alt="raiajit022" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and Object Detection Techniques**
+- 🌱 I’m currently learning **Web Scrapping, Data Visualization, Exploratory Data Analysis**
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+- 👯 I’m looking to collaborate on **Data Analysis Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/raiajit022](https://github.com/raiajit022)
-
-- 💬 Ask me about **Web Scrapping, Data Visualization, Exploratory Data Analysis**
 
 - 📫 How to reach me **raiajit022@gmail.com**
 
